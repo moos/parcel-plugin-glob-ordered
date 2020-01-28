@@ -9,11 +9,13 @@
   "main": "src/index.js",
   "author": "Moos <mooster@42at.com>",
   "license": "MIT",
+  "files": [
+    "src"
+  ],
   "dependencies": {
     "deep-sort-object": "^1.0.2"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "engines": {
     "node": ">=6.0.0"
   }
